@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning: a lot of things, mostly a mix of javascript and kotlin
 - 💬 Ask me about: idk im pretty boring lol
 - 📫 How to reach me: [mwahaha909@gmail.com](mailto:mwahaha909@gmail.com) or Mwa#0001 on discord!
