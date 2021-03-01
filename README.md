@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm pretty shit at coding! :D
 - 💻 Computer: I use a 2013 MacBook Pro running MacOS 10.13.6 (don't judge me im too lazy to update lol)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahaha9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahaha9&?theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
