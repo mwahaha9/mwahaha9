@@ -1,5 +1,5 @@
-### Hello I'm Mwa
-<h2>Writer of shitcode</h2>
+## Hello I'm Mwa
+### Writer of shitcode
 
 
 - 🌱 I’m currently learning: a lot of things, mostly a mix of javascript and java
