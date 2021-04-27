@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello I'm Mwa
+##Writer of shitcode
 
 
-- 🌱 I’m currently learning: a lot of things, mostly a mix of javascript and kotlin
+- 🌱 I’m currently learning: a lot of things, mostly a mix of javascript and java
 - 💬 Ask me about: idk im pretty boring lol
 - 📫 How to reach me: [mwahaha909@gmail.com](mailto:mwahaha909@gmail.com) or Mwa#0001 on discord!
 - 😄 Pronouns: He/Him 
