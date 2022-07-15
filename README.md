@@ -1,12 +1,22 @@
-## Hello I'm Mwa
-### Writer of shitcode
+<h2>Hello</h2>
 
+<h3>languages</h3>
 
-- 🌱 I’m currently learning: a lot of things, mostly a mix of javascript and java
-- 💬 Ask me about: idk im pretty boring lol
-- 📫 How to reach me: [mwahaha909@gmail.com](mailto:mwahaha909@gmail.com) or Mwa#7127 on discord!
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I'm pretty shit at coding! :D
-- 💻 Computer: I use a 2013 MacBook Pro running MacOS 10.13.6 (don't judge me im too lazy to update lol)
+- java
+- javascript (+html/css)
+- go
+- python
+- c++ (learning)
+<br><br><br>
+<h3>machines</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahaha9&?theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+- 2013 Mac Pro core i7
+- PC rtx 3080 core i7
+
+<br>
+
+<h3>contact</h3>
+
+- Mwa#2367
+- mwahaha909@gmail.com
+- mwahaha9.xyz (basically abandonded)
