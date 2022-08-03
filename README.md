@@ -19,4 +19,4 @@
 
 - Mwa#2367
 - mwahaha909@gmail.com
-- mwahaha9.xyz (basically abandonded)
+- mwahaha9.xyz (basically abandoned)
